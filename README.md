@@ -1,14 +1,14 @@
 # JuziYun 桔子云官方入口
 
-最新地址1：[juzi7878.com](https://juzi7878.com/auth/register?code=bFnb)
+最新地址1：[juzi7878.com](https://juzi7878.com/auth/register?code=jPPo)
 
-最新地址2：[juzi82.xyz](https://juzi82.xyz/auth/register?code=bFnb)
+最新地址2：[juzi82.xyz](https://juzi82.xyz/auth/register?code=jPPo)
 
-最新地址3：[juzi62.xyz](https://juzi62.xyz/auth/register?code=bFnb)
+最新地址3：[juzi62.xyz](https://juzi62.xyz/auth/register?code=jPPo)
 
-最新地址4：[juzi71.xyz](https://juzi71.xyz/auth/register?code=bFnb)
+最新地址4：[juzi71.xyz](https://juzi71.xyz/auth/register?code=jPPo)
 
-最新地址5：[juzi610.com](https://juzi610.com/auth/register?code=bFnb)
+最新地址5：[juzi610.com](https://juzi610.com/auth/register?code=jPPo)
 
 
 ---
